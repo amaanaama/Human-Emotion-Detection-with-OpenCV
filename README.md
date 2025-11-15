@@ -39,18 +39,7 @@ You should now see `(.venv)` appear before your terminal prompt.
 pip install opencv-python numpy matplotlib imutils deepface tensorflow dlib
 ```
 
----
 
-
----
-
-## Reactivating the Environment
-
-Each time you reopen the project:
-```bash
-cd ~/Documents/Code/CV-human-facial-detection
-source .venv/bin/activate
-```
 
 When you’re done:
 ```bash
