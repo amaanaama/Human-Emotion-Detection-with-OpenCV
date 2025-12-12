@@ -17,7 +17,7 @@ git clone https://github.com/amaanaama/Human-Emotion-Detection-with-OpenCV.git
 
 ### 2. Create a virtual environment
 ```bash
-python3.10 -m venv .venv
+python3 -m venv .venv
 ```
 
 ### 3. Activate the virtual environment
