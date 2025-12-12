@@ -36,7 +36,7 @@ You should now see `(.venv)` appear before your terminal prompt.
 
 ### 4. Install dependencies
 ```bash
-pip install opencv-python numpy matplotlib imutils deepface tensorflow dlib
+pip install -r requirements.txt
 ```
 
 

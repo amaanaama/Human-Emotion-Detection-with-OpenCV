@@ -11,7 +11,7 @@ while True:
     ret, frame = cap.read()
     if not ret:
         break
-    
+
 
     gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
     rgb = cv2.cvtColor(gray, cv2.COLOR_GRAY2RGB)
